@@ -34,3 +34,8 @@ The Huffman Compression and Decompression Program with GUI is a user-friendly to
      ```bash
      run.py
 
+## Contact
+
+If you have any questions or suggestions, feel free to contact the project maintainer at [ypranjal2001@gmail.com](mailto:ypranjal2001@gmail.com).
+
+
