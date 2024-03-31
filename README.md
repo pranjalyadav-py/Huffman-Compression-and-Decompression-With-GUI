@@ -31,6 +31,6 @@ The Huffman Compression and Decompression Program with GUI is a user-friendly to
 
 3. Run the application:
 
-  ```bash
-  run.py
+     ```bash
+     run.py
 
